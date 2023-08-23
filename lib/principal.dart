@@ -73,7 +73,7 @@ Widget Conceptos() {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Text(
-                  'Precios del ayer y hoy',
+                  'AREA DE PROMOCIONES',
                   style: TextStyle(color: Colors.white, fontSize: 20),
                 )
               ],
